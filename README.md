@@ -1,4 +1,4 @@
-# Online Retail Analysis - E-Cpmmerce
+# Online Retail Analysis - E-Commerce
 
 ## 1. Introduction
 
