@@ -4,7 +4,7 @@
 
 ### 1.1. Background
 
-For this project, let's take a look at the data of a UK-based online retailer from 2010-2011 containing information related to the transactions made from 2010 to 2011. The task is to discover important information about the sales so that the store can improve upon, and classify the customers into different types in order to approach them appropriately with different strategies.
+For this project, let's take a look at the data of a UK-based online retailer in 2010-2011 containing information related to the transactions made from 2010 to 2011. The task is to discover important information about the sales so that the store can improve upon, and classify the customers into different types in order to approach them appropriately with different strategies.
 
 This data consists of over 500,000 records of customer orders, including 8 variables that correspond to:
 
